@@ -32,7 +32,7 @@ import { Task } from '../models/task.model';
                 id="title-{{ task?.id }}"
                 name="title-{{ task?.id }}"
                 placeholder="Input title"
-                style="background-color: blue;"
+                style="background-color: LightGray;"
             />
         </label>   
         <button
